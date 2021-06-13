@@ -3,7 +3,7 @@ author: Jérémy VINCENT
 description: Administrateur systèmes et réseaux et développeur autodidacte pendant mon temps libre.
 lang: fr
 header-includes: <link rel="icon" type="image/png" href="img/resume.png" />
-pagetitle: Curriculum Vitae - Jérémy VINCENT
+pagetitle: Jérémy VINCENT
 ---
 
 ![](img/jeremy.png)
@@ -11,23 +11,26 @@ pagetitle: Curriculum Vitae - Jérémy VINCENT
 Jérémy VINCENT
 ======
 
-###### 28 ans . Habite à La Talaudière
-
-#### Après une activité entrepreneuriale enrichissante dans le domaine du jeux vidéo, j'accompagne des entreprises dans la gestion de son SI et dans leur virage digital. Je suis à l'écoute des solutions innovantes afin de répondre au mieux au business.
+###### 28 ans . Habite à La Talaudière . Anglais technique
 
 ###### [jvincent.eu](https://jvincent.eu) . [linkedin.com/in/jvin042](https://www.linkedin.com/in/jvin042) . [pro@jvincent.eu](mailto:pro@jvincent.eu) . [06 23 41 36 66](tel:+33623413666)
 
-Expériences
+Expériences 🚀
 ---------
-**Administrateur Systèmes et Réseaux, C'PRO** (Octobre 2020 - Aujourd'hui)
+**Administrateur Systèmes et Réseaux, Houlès** (Juillet 2021 - Aujourd'hui)
+
+En charge de maintenir, faire évoluer toute l’infrastructure informatique et d’assurer le support auprès des utilisateurs.
+
+
+**Administrateur Systèmes et Réseaux, C'PRO** (Octobre 2020 - Juillet 2021)
 
 En charge du support local de Saint-Etienne et de la messagerie mutualisé des clients CPRO.
 
-- Assure les tickets de niveau 2 à 3.
-- Dispatche des demandes aux équipes.
-- Maintenance du matériel informatique.
-- Supervision des serveurs virtualisés et physiques.
-- Support aux utilisateurs.
+-  Gestion des tickets de niveau 2 à 3.
+-  Dispatche des demandes aux équipes.
+-  Mise en place de services cloud pour des clients.
+-  Supervision des serveurs virtualisés et physiques des clients.
+-  Support aux utilisateurs en télémaintenance.
 
 **Président et lead développeur, Casual Studio** (Mars 2019 - Octobre 2020)
 
@@ -64,12 +67,7 @@ Gestion d'un parc de 130 ordinateurs et d'une dizaine de serveurs sur 2 sites à
 - Supervision des serveurs virtualisés et physiques.
 - Support aux utilisateurs.
 
-Bénévolat
----------
-**Conférencier, Techies Lab** (Mars 2021)
-Découverte aux jeunes des métiers de l'informatique et initiation à la programmation.
-
-Formations
+Formations 🎓
 ---------
 **BAC+3 Chargé de Projets en Systèmes Informatiques Appliqués**, Pôle Formation Loire-Drôme-Ardèche (2016-2017)
 
@@ -79,9 +77,9 @@ Formations
 
 **BEP Technicien d'études du bâtiment - Économie et gestion - Télécom et Réseaux**, Lycée Benoit Fourneyron (2009-2011)
 
-Compétences
+Compétences 📃
 ---------
-**Cloud:** Gestion de zone DNS et NDD, Serveurs web (Apache, Nginx), Microsoft 365 (Azure, Exchange, SharePoint), SEO
+**Cloud:** Gestion de zones DNS et NDD, Serveurs web (Apache, Nginx), Microsoft 365 (Azure, Exchange, SharePoint), SEO
 
 **Langages de commandes:** Bash, PowerShell, Python
 
@@ -91,13 +89,11 @@ Compétences
 
 **Réseaux:** IP, DHCP, DNS, Firewall, LAN/WAN, Proxy, VLAN, VPN
 
-**Supervision:** Nagios, Prometheus, Zabbix
-
 **Systèmes:** Conteneurs (Docker et LXC), Linux (Debian, RHEL), Windows Server (AD, DFS, Exchange, RDS, SQL, WSUS), Virtualisation (Hyper-V, Proxmox, VMware ESX)
 
 **Autres:** Adobe CC, Ansible, Cloudflare, Docker Compose, Git, Microsoft Office, pfSense, RGPD, Unity
 
-Certifications
+Certifications 📝
 ---------
 - **SecNumAcadémie**, ANSSI (2020)
 - **L'atelier RGPD**, CNIL (2019)

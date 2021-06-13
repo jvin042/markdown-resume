@@ -354,6 +354,7 @@
   
 
 html,body {
+  background-color: #2a2e5e;
   font-family: Inter,sans-serif;
   font-size: 15px;
   margin: auto;
@@ -362,8 +363,16 @@ html,body {
 }
 
 a {
-  color: #121c42;
+  color: #f0f3ff;
   text-decoration: none;
+}
+
+li {
+  color: #f0f3ff;
+}
+
+p {
+  color: #f0f3ff;
 }
 
 img {
@@ -374,30 +383,30 @@ img {
 }
 
 h1 {
-  color: #121c42;
+  color: #f0f3ff;
   font-family: 'DM Serif Display';
   font-size: 30px;
   text-align: center;
 }
 
 h2 {
-  color: #121c42;
+  color: #5396e7;
   font-size: 25px;
 }
 
 h3 {
-  color: #121c42;
+  color: #f0f3ff;
   font-size: 18px;
   text-align: center;
 }
 
 h4 {
-  color: #121c42;
+  color: #f0f3ff;
   text-align: center;
 }
 
 h6 {
-  color: #777;
+  color: #5396e7;
   font-size: 15px;
   margin: 10px 0 10px;
   text-align: center;

@@ -12,8 +12,13 @@ echo 'Generate HTML to PDF ...'
 wkhtmltopdf index.html resume.pdf
 
 echo
-echo 'Generate Markdown to HTML + Footer (Download Link) ...'
-pandoc -s -c css/design.css src/resume.md src/footer.md -o index.html
+echo 'Generate Markdown to HTML Light + Footer (Download Link) ...'
+pandoc -s -c css/design-light.css src/resume.md src/footer.md -o index.html
+echo 'Done'
+
+echo
+echo 'Generate Markdown to HTML Dark + Footer (Download Link) ...'
+pandoc -s -c css/design-dark.css src/resume.md src/footer.md -o dark.html
 echo 'Done'
 
 echo
