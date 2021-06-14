@@ -377,11 +377,12 @@ img {
 h1 {
   color: #121c42;
   font-family: 'DM Serif Display';
-  font-size: 30px;
+  font-size: 35px;
   text-align: center;
 }
 
 h2 {
+  border-bottom: 1px solid #ccc;
   color: #121c42;
   font-size: 25px;
 }

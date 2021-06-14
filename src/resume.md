@@ -15,7 +15,7 @@ Jérémy VINCENT
 
 ###### [jvincent.eu](https://jvincent.eu) . [linkedin.com/in/jvin042](https://www.linkedin.com/in/jvin042) . [pro@jvincent.eu](mailto:pro@jvincent.eu) . [06 23 41 36 66](tel:+33623413666)
 
-Expériences 🚀
+Expériences
 ---------
 **Administrateur Systèmes et Réseaux, Houlès** (Juillet 2021 - Aujourd'hui)
 
@@ -67,7 +67,7 @@ Gestion d'un parc de 130 ordinateurs et d'une dizaine de serveurs sur 2 sites à
 - Supervision des serveurs virtualisés et physiques.
 - Support aux utilisateurs.
 
-Formations 🎓
+Formations
 ---------
 **BAC+3 Chargé de Projets en Systèmes Informatiques Appliqués**, Pôle Formation Loire-Drôme-Ardèche (2016-2017)
 
@@ -77,7 +77,7 @@ Formations 🎓
 
 **BEP Technicien d'études du bâtiment - Économie et gestion - Télécom et Réseaux**, Lycée Benoit Fourneyron (2009-2011)
 
-Compétences 📃
+Compétences
 ---------
 **Cloud:** Gestion de zones DNS et NDD, Serveurs web (Apache, Nginx), Microsoft 365 (Azure, Exchange, SharePoint), SEO
 
@@ -93,7 +93,7 @@ Compétences 📃
 
 **Autres:** Adobe CC, Ansible, Cloudflare, Docker Compose, Git, Microsoft Office, pfSense, RGPD, Unity
 
-Certifications 📝
+Certifications
 ---------
 - **SecNumAcadémie**, ANSSI (2020)
 - **L'atelier RGPD**, CNIL (2019)
