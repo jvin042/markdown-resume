@@ -27,7 +27,7 @@ En charge de maintenir, faire évoluer toute l’infrastructure informatique et 
 En charge du support local de Saint-Etienne et de la messagerie mutualisé des clients CPRO.
 
 -  Gestion des tickets de niveau 2 à 3.
--  Dispatche des demandes aux équipes.
+-  Dispatch des demandes aux équipes.
 -  Mise en place de services cloud pour des clients.
 -  Supervision des serveurs virtualisés et physiques des clients.
 -  Support aux utilisateurs en télémaintenance.
