@@ -13,7 +13,11 @@ Jérémy VINCENT
 
 ###### 28 ans . Habite à La Talaudière . Anglais technique
 
+#### Après une activité entrepreneuriale enrichissante dans le domaine du jeux vidéo, j'accompagne des entreprises dans la gestion de son SI et dans leur virage digital. Je suis à l'écoute des solutions innovantes afin de répondre au mieux au business.
+
 ###### [jvincent.eu](https://jvincent.eu) . [linkedin.com/in/jvin042](https://www.linkedin.com/in/jvin042) . [pro@jvincent.eu](mailto:pro@jvincent.eu) . [06 23 41 36 66](tel:+33623413666)
+
+<br>
 
 Expériences
 ---------
@@ -75,7 +79,7 @@ Formations
 
 **BEP et BAC PRO Systèmes Electroniques Numériques - Télécom et Réseaux**, Lycée Le Marais Sainte Thérèse (2011-2014)
 
-**BEP Technicien d'études du bâtiment - Économie et gestion - Télécom et Réseaux**, Lycée Benoit Fourneyron (2009-2011)
+**BEP Technicien d'études du bâtiment - Économie et gestion**, Lycée Benoit Fourneyron (2009-2011)
 
 Compétences
 ---------

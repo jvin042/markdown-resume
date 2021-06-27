@@ -355,7 +355,7 @@
 
 html,body {
   font-family: Inter,sans-serif;
-  font-size: 14px;
+  font-size: 15px;
   margin: auto;
   max-width: 60em; 
   padding:40px;      
@@ -399,7 +399,7 @@ h4 {
 
 h6 {
   color: #777;
-  font-size: 14px;
+  font-size: 15px;
   margin: 10px 0 10px;
   text-align: center;
 }
