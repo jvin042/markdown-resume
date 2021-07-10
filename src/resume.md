@@ -23,8 +23,7 @@ Expériences
 ---------
 **Administrateur Systèmes et Réseaux, Houlès** (Juillet 2021 - Aujourd'hui)
 
-En charge de maintenir, faire évoluer toute l’infrastructure informatique et d’assurer le support auprès des utilisateurs.
-
+En charge de maintenir, faire évoluer toute l’infrastructure informatique, d’assurer le support auprès des utilisateurs, faire évoluer ERP et le site web de l'entreprise.
 
 **Administrateur Systèmes et Réseaux, C'PRO** (Octobre 2020 - Juillet 2021)
 
