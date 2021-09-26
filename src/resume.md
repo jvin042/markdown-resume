@@ -13,7 +13,7 @@ Jérémy VINCENT
 
 ###### 28 ans . Habite à La Talaudière . Anglais technique
 
-#### Après une activité entrepreneuriale enrichissante dans le domaine du jeux vidéo, j'accompagne des entreprises dans la gestion de son SI et dans leur virage digital. Je suis à l'écoute des solutions innovantes afin de répondre au mieux au business.
+#### Accompagne les entreprises dans la gestion du SI et dans leur virage digital. Je suis à l'écoute des solutions innovantes afin de répondre au mieux au business.
 
 ###### [jvincent.eu](https://jvincent.eu) . [linkedin.com/in/jvin042](https://www.linkedin.com/in/jvin042) . [pro@jvincent.eu](mailto:pro@jvincent.eu) . [06 23 41 36 66](tel:+33623413666)
 
@@ -25,9 +25,9 @@ Expériences
 
 En charge de maintenir, faire évoluer toute l’infrastructure informatique, d’assurer le support auprès des utilisateurs, faire évoluer ERP et le site web de l'entreprise.
 
-**Administrateur Systèmes et Réseaux, C'PRO** (Octobre 2020 - Juillet 2021)
+**Administrateur Systèmes et Réseaux, Koesio** (Octobre 2020 - Juillet 2021)
 
-En charge du support local de Saint-Etienne et de la messagerie mutualisé des clients CPRO.
+En charge du support local de Saint-Etienne et de la messagerie mutualisé des clients.
 
 -  Gestion des tickets de niveau 2 à 3.
 -  Dispatch des demandes aux équipes.
