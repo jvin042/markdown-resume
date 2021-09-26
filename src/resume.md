@@ -27,7 +27,7 @@ En charge de maintenir, faire évoluer toute l’infrastructure informatique, d�
 
 **Administrateur Systèmes et Réseaux, Koesio** (Octobre 2020 - Juillet 2021)
 
-En charge du support local de Saint-Etienne et de la messagerie mutualisé des clients.
+Responsable du support local de Saint-Etienne et de la messagerie mutualisé des clients.
 
 -  Gestion des tickets de niveau 2 à 3.
 -  Dispatch des demandes aux équipes.
