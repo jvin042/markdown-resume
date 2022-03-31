@@ -1,10 +1,6 @@
 # Markdown Resume
 > The easiest way to make a simple and effective resume!
 
-<p align="center">
-  <img src="demo.gif"/>
-</p>
-
 Changing the content or style of a CV is a relatively common occurrence that can be frustrating. This repo contains starter files for the simplest possible where resume *content* is maintained in a simple markdown file and generating `.html` and `.pdf` output formats can be automated with two tools: `pandoc` and `wkhtmltopdf`.
 
 White and Dark Theme.

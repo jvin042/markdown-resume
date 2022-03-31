@@ -11,15 +11,17 @@ pagetitle: Jérémy VINCENT
 Jérémy VINCENT
 ======
 
-###### 28 ans . Habite à La Talaudière . Anglais technique
+<br>
+
+###### 29 ans . 🛖 Habite à La Tour-en-Jarez . Anglais technique
 
 #### Accompagne les entreprises dans la gestion du SI et dans leur virage digital. Je suis à l'écoute des solutions innovantes afin de répondre au mieux au business.
 
-###### [jvincent.eu](https://jvincent.eu) . [linkedin.com/in/jvin042](https://www.linkedin.com/in/jvin042) . [pro@jvincent.eu](mailto:pro@jvincent.eu) . [06 23 41 36 66](tel:+33623413666)
+###### [💠 linkedin.com/in/jvin042](https://www.linkedin.com/in/jvin042) . [📧 pro@jvincent.eu](mailto:pro@jvincent.eu) . [📱 06 23 41 36 66](tel:+33623413666)
 
 <br>
 
-Expériences
+🏬 Expériences
 ---------
 **Administrateur Systèmes et Réseaux, Houlès** (Juillet 2021 - Aujourd'hui)
 
@@ -70,37 +72,42 @@ Gestion d'un parc de 130 ordinateurs et d'une dizaine de serveurs sur 2 sites à
 - Supervision des serveurs virtualisés et physiques.
 - Support aux utilisateurs.
 
-Formations
+🏦 Formations
 ---------
-**BAC+3 Chargé de Projets en Systèmes Informatiques Appliqués**, Pôle Formation Loire-Drôme-Ardèche (2016-2017)
+- **BAC+3 Chargé de Projets en Systèmes Informatiques Appliqués**, Pôle Formation Loire-Drôme-Ardèche (2016-2017)
 
-**BTS Services Informatiques aux Organisations - Solutions d’Infrastructure, Systèmes et Réseaux**, Pôle Formation Loire-Drôme-Ardèche (2014-2016)
+- **BTS Services Informatiques aux Organisations - Solutions d’Infrastructure, Systèmes et Réseaux**, Pôle Formation Loire-Drôme-Ardèche (2014-2016)
 
-**BEP et BAC PRO Systèmes Electroniques Numériques - Télécom et Réseaux**, Lycée Le Marais Sainte Thérèse (2011-2014)
+- **BEP et BAC PRO Systèmes Electroniques Numériques - Télécom et Réseaux**, Lycée Le Marais Sainte Thérèse (2011-2014)
 
-**BEP Technicien d'études du bâtiment - Économie et gestion**, Lycée Benoit Fourneyron (2009-2011)
+- **BEP Technicien d'études du bâtiment - Économie et gestion**, Lycée Benoit Fourneyron (2009-2011)
 
-Compétences
+🚀 Compétences
 ---------
-**Cloud:** Gestion de zones DNS et NDD, Serveurs web (Apache, Nginx), Microsoft 365 (Azure, Exchange, SharePoint), SEO
+- **Cloud:** Gestion de zones DNS et NDD, Serveurs web (Apache, Nginx), Microsoft 365 (Azure, Exchange, SharePoint), SEO
 
-**Langages de commandes:** Bash, PowerShell, Python
+- **Langages de commandes:** Bash, PowerShell, Python
 
-**Langages de programmation:** C#, C++, HTML/CSS, Javascript, Node.js, PHP
+- **Langages de programmation:** C#, C++, HTML/CSS, Javascript, Node.js, PHP
 
-**Matériels:** Cisco, Dell, HP, Ubiquiti, Sophos, Stormshield, Watchguard
+- **Matériels:** Cisco, Dell, HP, Ubiquiti, Sophos, Stormshield, Watchguard
 
-**Réseaux:** IP, DHCP, DNS, Firewall, LAN/WAN, Proxy, VLAN, VPN
+- **Réseaux:** IP, DHCP, DNS, Firewall, LAN/WAN, Proxy, VLAN, VPN
 
-**Systèmes:** Conteneurs (Docker et LXC), Linux (Debian, RHEL), Windows Server (AD, DFS, Exchange, RDS, SQL, WSUS), Virtualisation (Hyper-V, Proxmox, VMware ESX)
+- **Systèmes:** Conteneurs (Docker et LXC), Linux (Debian, RHEL), Windows Server (AD, DFS, Exchange, RDS, SQL, WSUS), Virtualisation (Hyper-V, Proxmox, VMware ESX)
 
-**Autres:** Adobe CC, Ansible, Cloudflare, Docker Compose, Git, Microsoft Office, pfSense, RGPD, Unity
+- **Autres:** Adobe CC, Ansible, Cloudflare, Docker Compose, Git, Microsoft Office, pfSense, RGPD, Unity
 
-Certifications
+✨ Certifications
 ---------
-- **SecNumAcadémie**, ANSSI (2020)
-- **L'atelier RGPD**, CNIL (2019)
-- **LPIC-1 : Linux Professional Institute**, Cisco (2017)
-- **CCNA 2 : Routage et commutation**, Cisco (2017)
-- **CCNA 1 : Notions de base sur les réseaux**, Cisco (2016)
-- **CCNA Discovery : Mise en réseau pour les petites et moyennes entreprises**, Cisco (2016)
+-  **SecNumAcadémie**, ANSSI (2020)
+
+-  **L'atelier RGPD**, CNIL (2019)
+
+-  **LPIC-1 : Linux Professional Institute**, Cisco (2017)
+
+-  **CCNA 2 : Routage et commutation**, Cisco (2017)
+
+-  **CCNA 1 : Notions de base sur les réseaux**, Cisco (2016)
+
+-  **CCNA Discovery : Mise en réseau pour les petites et moyennes entreprises**, Cisco (2016)

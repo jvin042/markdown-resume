@@ -358,8 +358,8 @@ html,body {
   font-family: Inter,sans-serif;
   font-size: 15px;
   margin: auto;
-  max-width: 60em; 
-  padding:40px;      
+  max-width: 85em; 
+  padding:20px;      
 }
 
 a {
@@ -377,7 +377,7 @@ img {
 h1 {
   color: #121c42;
   font-family: 'DM Serif Display';
-  font-size: 35px;
+  font-size: 40px;
   text-align: center;
 }
 
