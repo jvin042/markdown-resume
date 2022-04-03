@@ -354,52 +354,79 @@
   
 
 html,body {
+  background-color: #282a36;
   font-family: Inter,sans-serif;
   font-size: 15px;
   margin: auto;
-  max-width: 60em; 
-  padding:20px;      
+  max-width: 85em; 
+  padding:10px;      
 }
 
-a {
-  color: #121c42;
+strong {
+  color: #50fa7b;
   text-decoration: none;
 }
 
-img {
-  border-radius: 50%;
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
+a {
+  color: #50fa7b;
+  text-decoration: none;
+}
+
+b {
+  color: #bd93f9;
+  text-decoration: none;
+}
+
+
+li {
+  color: #8be9fd;
+}
+
+p {
+  color: #f8f8f2;
 }
 
 h1 {
-  color: #121c42;
+  color: #50fa7b;
   font-family: 'DM Serif Display';
-  font-size: 35px;
+  font-size: 40px;
   text-align: center;
 }
 
 h2 {
   border-bottom: 1px solid #ccc;
-  color: #121c42;
+  color: #bd93f9;
   font-size: 25px;
 }
 
 h3 {
-  color: #121c42;
+  color: #f0f3ff;
   font-size: 18px;
   text-align: center;
 }
 
 h4 {
-  color: #121c42;
+  color: #f8f8f2;
   text-align: center;
 }
 
 h6 {
-  color: #777;
+  color: #6272a4;
   font-size: 15px;
   margin: 10px 0 10px;
   text-align: center;
+}
+
+img.emoji {
+  height: 1em;
+  width: 1em;
+  margin: 0 .05em 0 .1em;
+  vertical-align: -0.1em;
+}
+
+img.profile {
+  border-radius: 50%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }

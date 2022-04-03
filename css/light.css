@@ -359,7 +359,7 @@ html,body {
   font-size: 15px;
   margin: auto;
   max-width: 85em; 
-  padding:20px;      
+  padding:10px;      
 }
 
 a {
@@ -367,12 +367,7 @@ a {
   text-decoration: none;
 }
 
-img {
-  border-radius: 50%;
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-}
+
 
 h1 {
   color: #121c42;
@@ -403,4 +398,18 @@ h6 {
   font-size: 15px;
   margin: 10px 0 10px;
   text-align: center;
+}
+
+img.emoji {
+  height: 1em;
+  width: 1em;
+  margin: 0 .05em 0 .1em;
+  vertical-align: -0.1em;
+}
+
+img.profile {
+  border-radius: 50%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }

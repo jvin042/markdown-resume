@@ -6,22 +6,25 @@ header-includes: <link rel="icon" type="image/png" href="img/resume.png" />
 pagetitle: Jérémy VINCENT
 ---
 
-![](img/jeremy.png)
+<!-- EMOJI -->
+<script src="https://twemoji.maxcdn.com/v/latest/twemoji.min.js"></script>
+<script>window.onload = function () { twemoji.parse(document.body);}</script>
+
+<img class="profile" src="img/jeremy.png">
 
 Jérémy VINCENT
 ======
 
-<br>
-
-###### 29 ans . 🛖 Habite à La Tour-en-Jarez . Anglais technique
-
-#### Accompagne les entreprises dans la gestion du SI et dans leur virage digital. Je suis à l'écoute des solutions innovantes afin de répondre au mieux au business.
+#### 🧁 29 ans . 🏠 Habite à La Tour-en-Jarez . 🇬🇧 Anglais technique
 
 ###### [💠 linkedin.com/in/jvin042](https://www.linkedin.com/in/jvin042) . [📧 pro@jvincent.eu](mailto:pro@jvincent.eu) . [📱 06 23 41 36 66](tel:+33623413666)
 
-<br>
+💬 Profil
+---------
 
-🏬 Expériences
+Accompagne les entreprises dans la gestion du SI et dans leur virage digital. Je suis à l'écoute des solutions innovantes afin de répondre au mieux au business.
+
+📖 Expériences
 ---------
 **Administrateur Systèmes et Réseaux, Houlès** (Juillet 2021 - Aujourd'hui)
 
