@@ -1,116 +1,84 @@
 ---
-author: Jérémy VINCENT
-description: Administrateur systèmes et réseaux et développeur autodidacte pendant mon temps libre.
-lang: fr
-header-includes: <link rel="icon" type="image/png" href="img/resume.png" />
-pagetitle: Jérémy VINCENT
+author: Paul Wadsworth
+description: xyz
+lang: en
+pagetitle: Paul Wadsworth
 ---
 
 <!-- EMOJI -->
 <script src="https://twemoji.maxcdn.com/v/latest/twemoji.min.js"></script>
 <script>window.onload = function () { twemoji.parse(document.body);}</script>
 
-<img class="profile" src="img/jeremy.png">
-
-Jérémy VINCENT
+Paul Wadsworth
 ======
 
-#### 🧁 29 ans . 🏠 Habite à La Tour-en-Jarez . 🇬🇧 Anglais technique
+#### [💠 linkedin.com/](www.linkedin.com/in/fullstack-paul-wadsworth) [📧 toriaezunama@proton.me](mailto:toriaezunama@proton.me) [📱 604 352 3886](tel:+33623413666)
 
-###### [💠 linkedin.com/in/jvin042](https://www.linkedin.com/in/jvin042) . [📧 pro@jvincent.eu](mailto:pro@jvincent.eu) . [📱 06 23 41 36 66](tel:+33623413666)
-
-💬 Profil
+Summary
 ---------
 
-Accompagne les entreprises dans la gestion du SI et dans leur virage digital. Je suis à l'écoute des solutions innovantes afin de répondre au mieux au business.
+Knowledgeable developer with 15+ years working in a variety of roles and technology stacks. 5 years focused on backend with Node.js. Experienced in the design, development, delivery, and maintenance of features realised through GraphQL and REST. Conscientious, organized, detail oriented, always learning. A team player who is passionate about new technologies and building systems. Big proponent of automation, the Unix philosophy, containers and kubernetes.
 
-📖 Expériences
+📖 Experience
 ---------
-**Administrateur Systèmes et Réseaux, Houlès** (Juillet 2021 - Aujourd'hui)
+**Senior Backend Engineer, Bluescape** (Sept 2018 - Present)
 
-En charge de maintenir, faire évoluer toute l’infrastructure informatique, d’assurer le support auprès des utilisateurs, faire évoluer ERP et le site web de l'entreprise.
+### Key Responsibilities
+- Design, development, delivery, and maintenance of GraphQL and REST API for 2 generations of API
+- Mentoring: Mentored 3 junior engineers through frequent meetings and providing feedback during code reviews
+- Documentation: Contributed over 40 design, knowledge transfer and best practices documents. Presented multiple designs to our Architecture Council. Reviewed and gave feedback on designs
+- Code reviews: provided feedback, suggestions & mentoring through Github's pull request system
+- Bug triage, estimation, fixing & regression mitigation
+- Infrastructure champion: understand and contribute to the jsonnet/K8S manifests, Argocd & CI Github workflows that our team relies on for infrastructure
+- API review council: presenting and participating in reviews
+- Interviewing: 10+ interviews, ranging from junior developer to senior management; both behavioural & technical 
 
-**Administrateur Systèmes et Réseaux, Koesio** (Octobre 2020 - Juillet 2021)
+### Engineering Highlights
+- Key driver instrumental in choosing and evangelising the technology stack for our V3 API rewrite, providing the initial architectural design and driving the early direction of the project. Held regular design meetings with the team around a prioritised roadmap I created that everyone was invited to contribute to.
+- For a "user groups" feature which allowed users to be both directly and indirectly (through group membership) associated with a resource; designed & implemented support for paginating heterogeneous collections. The approach utilised "materialised" views to combine multiple tables into a single "view" table & database triggers to automatically update the "view" on mutation to any of the source tables. Due to the "view" containing a mixed collection items (users and groups) many complications to the pagination had to be overcome such as avoiding duplicate user entries. The use of triggers also took some engineering effort to perfect.
+- Researched, designed and implemented a "seek" (as opposed to offset) based cursor pagination implementation overcoming complex issues with ordering and null values inherent with this approach
+- Optimised permission lookup during authorization by caching the result of flattening a DAG of groups and permissions into a single model field that is automatically updated via hooks when related models are mutated
+- At customer request, co-designed and implemented a 2nd tier to our authorization using the XACML JSON profile which directly contributed to the client continuing their contract with us. Participated in client meetings & debugging sessions. The project was challenging due to the client being a government agency requiring secrecy and black box nature of interacting with the client. Developed a mock PDP server for testing the authorization flow.
+- For a security feature to migrate from integer Ids to string Uids in our API, proposed a novel approach that minimised the amount of internal code and DB query changes required - all internal code relied heavily on integer primary/foreign key usage - saving a lot of development work.
+- Introduced end to end tests (using fixtures) to catch regressions for bug tickets I worked on leading to better code coverage and testing
+- Early design work on implementing a OAuth2 authenticated JS client library for wrapping ISAM REST API
+- Wrote the V3 version of our system for migrating the database
 
-Responsable du support local de Saint-Etienne et de la messagerie mutualisé des clients.
+### Process Improvement Contributions
+- Introduced docker-compose as an alternative to Minishift (kubernetes) which simplified and sped up the development feedback loop, enabled debugging locally and reduced CPU usage. This was eventually embraced by the whole of development. 
+- Brought async/await style programming to Node 6 using generators which allowed the team to remove complex promise chains and simplify the code without having to add a Babel compilation phase to add shims.
+- Created shell functions wrapping docker-compose commands & others, to simplify local development for the team
+- Created a rudimentary tool to list all available API in a google sheet by reading the code base
+- Created regression scenarios to test/verify API bug tickets using Artillery.io greatly speeding up feedback cycles when compared to manually testing with Postman.
+- Proliferated "labs" shared mono-repo for POC & experimental development used by many developers in the organization. 
 
--  Gestion des tickets de niveau 2 à 3.
--  Dispatch des demandes aux équipes.
--  Mise en place de services cloud pour des clients.
--  Supervision des serveurs virtualisés et physiques des clients.
--  Support aux utilisateurs en télémaintenance.
+### Core Technologies
+Typescript, Node.js, MySQL, NestJS, Sequelize, GraphQL, REST, Jest, Restify, AJV, JSON schema, Open API, Openshift, Docker, Docker-compose, Kubernetes
 
-**Président et lead développeur, Casual Studio** (Mars 2019 - Octobre 2020)
+**Senior Software Engineer, DMG Blockchain Solutions Inc.** (Sep 2017 - Sep 2018)
 
-- Développement d'un jeu vidéo sur Unity Engine.
-- Développement de partenariats (Epic Games, Google, Microsoft, Sony et Valve)
-- Élaboration de la stratégie commercial (B2C) et marketing.
-- Management de l'entreprise.
-- Mise en place de la stratégie SI de l'entreprise.
+- Designed and prototyped a secure system to distribute mining pool earnings to customer’s based on their hardware's contribution to the pool. 
+Tech: Bitcoin, NodeJS, RabbitMQ, ZeroMQ, Vault, MongoDB, InfluxDB, Docker compose, BottleJS (DI library) 
+- Collaborated in a big data project collecting data from 100s of Bitcoin miners using event sourcing and lambda architecture to provide real time streams, batch processing and dashboards
+Tech: Docker, Ansible, Vagrant & VirtualBox, Fluentd/Fluentbit, Kafka, RabbitMQ, NodeJS, MySQL, Linux 
 
-**Administrateur Systèmes et Réseaux, XEFI** (Octobre 2017 - Mars 2019)
+**Senior Software Engineer, Conquer Mobile** (May 2016 - September 2017)
 
-- Développement de sites web.
-- Formation aux clients.
-- Installation et configuration d’ordinateurs et de serveurs.
-- Maintenance du matériel informatique.
-- Mise en place de solutions d'impressions, cloud et sécurité.
-- Migration infrastructures techniques clientes.
-- Supervision des serveurs virtualisés et physiques.
-- Support aux utilisateurs.
+- Sole developer on an innovative clinical app measuring brain response times to stimuli via an EEG headset. Implemented a native JS module in C++ to interface with the hardware along with protocol stack to communicate with it. Worked with the team to increase the millisecond accuracy over the original prototype greatly increasing the accuracy of the results. Built a frontend in React on top of ShareDB allowing real time UI updates so multiple devices could view an ongoing trial at the same time.
+Tech: NodeJS, Express, Coffeescript, ShareDB, Stately.js, Mocha, Chai, Enzyme, React, react-router, SCSS, Webpack, Javascript, C++, V8 engine, NaN, Docker, Bitbucket pipelines CI. 
+- System maintenance and improvements for a Photographic Studio onsite scheduling system. Audited and then unified state management into a single "source of truth" removing ambiguity and reducing customer logistical issues. 
+Tech: NodeJS, Express, Mocha, Chai, Couchbase, Couchbase Sync Gateway, Couchbaselite, N1QL, cbbackup, cbrestore, Android, Java.
+- Quickly got up to speed and was able to contribute and make technology suggestions on a React Native app with a team that was new to the platform.
+Tech: React Native, Redux, Redux Thunk, Redux Persist, React, Router Flux. 
+- Maintained internal backend for the company's perioperative training simulation
+Tech: NodeJS/Express, React, Coffeescript, CouchDB, Passport JS, React Cursor, Sharejs, Web Workers. 
 
-**Chef de projet informatique, Newell Brands** (Septembre 2016 - Septembre 2017)
-
-Transition de l'entreprise vers Microsoft 365.
-(Gestion de projet, Migration et accompagnement de l'ensemble des collaborateurs)
-
-**Assistant informatique, Newell Brands** (Septembre 2014 - Septembre 2016)
-
-Gestion d'un parc de 130 ordinateurs et d'une dizaine de serveurs sur 2 sites à Saint-Etienne et Paris.
-
-- Gestion et contrôle des sauvegardes.
-- Formation et rédaction de procédures.
-- Maintenance du matériel informatique.
-- Migration des anciens serveurs et applicatifs vers des nouveaux serveurs.
-- Supervision des serveurs virtualisés et physiques.
-- Support aux utilisateurs.
-
-🏦 Formations
+Certifications
 ---------
-- **BAC+3 Chargé de Projets en Systèmes Informatiques Appliqués**, Pôle Formation Loire-Drôme-Ardèche (2016-2017)
+- AWS Solutions Architect Associate
 
-- **BTS Services Informatiques aux Organisations - Solutions d’Infrastructure, Systèmes et Réseaux**, Pôle Formation Loire-Drôme-Ardèche (2014-2016)
-
-- **BEP et BAC PRO Systèmes Electroniques Numériques - Télécom et Réseaux**, Lycée Le Marais Sainte Thérèse (2011-2014)
-
-- **BEP Technicien d'études du bâtiment - Économie et gestion**, Lycée Benoit Fourneyron (2009-2011)
-
-🚀 Compétences
+Education
 ---------
-- **Cloud:** Gestion de zones DNS et NDD, Serveurs web (Apache, Nginx), Microsoft 365 (Azure, Exchange, SharePoint), SEO
-
-- **Langages de commandes:** Bash, PowerShell, Python
-
-- **Langages de programmation:** C#, C++, HTML/CSS, Javascript, Node.js, PHP
-
-- **Matériels:** Cisco, Dell, HP, Ubiquiti, Sophos, Stormshield, Watchguard
-
-- **Réseaux:** IP, DHCP, DNS, Firewall, LAN/WAN, Proxy, VLAN, VPN
-
-- **Systèmes:** Conteneurs (Docker et LXC), Linux (Debian, RHEL), Windows Server (AD, DFS, Exchange, RDS, SQL, WSUS), Virtualisation (Hyper-V, Proxmox, VMware ESX)
-
-- **Autres:** Adobe CC, Ansible, Cloudflare, Docker Compose, Git, Microsoft Office, pfSense, RGPD, Unity
-
-✨ Certifications
----------
--  **SecNumAcadémie**, ANSSI (2020)
-
--  **L'atelier RGPD**, CNIL (2019)
-
--  **LPIC-1 : Linux Professional Institute**, Cisco (2017)
-
--  **CCNA 2 : Routage et commutation**, Cisco (2017)
-
--  **CCNA 1 : Notions de base sur les réseaux**, Cisco (2016)
-
--  **CCNA Discovery : Mise en réseau pour les petites et moyennes entreprises**, Cisco (2016)
+Loughborough University, England
+Computer Science
+Graduated with 1st class honours
